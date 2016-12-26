@@ -11,13 +11,13 @@
         {
           "name": "Nordic Semiconductor nRF5 Boards (enhanced)",
           "architecture": "nRF5",
-          "version": "0.2.1",
+          "version": "0.2.0",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/d00616/arduino-nRF5/issues"
           },
-          "url": "https://github.com/d00616/arduino-nRF5/archive/0.2.1.tar.gz",
-          "archiveFileName": "arduino-nRF52-0.2.1.tar.gz",
+          "url": "https://github.com/d00616/arduino-nRF5/archive/0.2.0.tar.gz",
+          "archiveFileName": "arduino-nRF52-0.2.0.tar.gz",
           "checksum": "MD5:1ed95ee9030e4ca1371665258a3cdee4",
           "size": "562847",
           "boards": [
