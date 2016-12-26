@@ -36,12 +36,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "sandeepmistry",
+              "packager": "d00616",
               "name": "gcc-arm-none-eabi",
               "version": "5_2-2015q4"
             },
             {
-              "packager": "sandeepmistry",
+              "packager": "d00616",
               "name": "openocd",
               "version": "0.10.0-dev.nrf5"
             }
