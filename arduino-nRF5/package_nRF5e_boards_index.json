@@ -17,7 +17,7 @@
             "online": "https://github.com/d00616/arduino-nRF5/issues"
           },
           "url": "https://github.com/d00616/arduino-nRF5/archive/0.2.1.tar.gz",
-          "archiveFileName": "arduino-nRF52-0.2.1.tar.gz",
+          "archiveFileName": "arduino-nRF5e-0.2.1.tar.gz",
           "checksum": "MD5:1465105fe587cf13da0f3cacbeac2fa5",
           "size": "562847",
           "boards": [
